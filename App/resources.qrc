@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/left-arrow.png</file>
+    <file>images/work-done.png</file>
+    <file>images/done.png</file>
+    <file>images/photo.png</file>
+    <file alias="emotions.png">images/emotions.png</file>
+    <file alias="pause.png">images/pause.png</file>
+    <file alias="loading.gif">images/loading.gif</file>
+    <file alias="capture.png">images/capture.png</file>
+    <file alias="dashboard.png">images/dashboard.png</file>
+    <file alias="face.png">images/face-recognition.png</file>
+    <file alias="graph.png">images/graph.png</file>
+    <file alias="logout.png">images/logout.png</file>
+    <file alias="image.png">images/image.png</file>
+    <file alias="bookmark.png">images/bookmark.png</file>
+    <file>images/upload.png</file>
+  </qresource>
+</RCC>
